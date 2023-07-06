@@ -1,4 +1,4 @@
-(https://github.com/Ayushman88/Ayushman88/blob/main/0706.mp4)
+[![masterhead](https://github.com/Ayushman88/Ayushman88/blob/main/0706.mp4)]
 
 <h1 align="center">Hi 👋, I'm Ayushman Mishra</h1>
 <h3 align="center">1st year student | Frontend Development | Learning</h3>
