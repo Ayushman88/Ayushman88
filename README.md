@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ayushman Mishra</h1>
 <h3 align="center">1st year student | Frontend Development | Learning</h3>
-<p align= "right"><img src="https://github.com/Ayushman88/Ayushman88/blob/main/1_um19N_oeTKlmrHMov0O5bA.gif" </p>
+<p align= "center"><img src="https://github.com/Ayushman88/Ayushman88/blob/main/1_um19N_oeTKlmrHMov0O5bA.gif" </p>
 <br>
-<p align="left"><b>💫 About Me:</b> </p>
+<p align="center"><b>💫 About Me:</b> 
 🔭 I’m currently learning Javascript and M.E.R.N Stack<br>💬 Ask me about Frontend Development<br>📫 How to reach me : ayushmanmishra094@gmail.com<br>⚡ Fun fact I will be joining my first year this year!!
 
 
@@ -26,6 +26,7 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayushmanmishra) 
+  </p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
