@@ -9,7 +9,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://github.com/Ayushman88/Ayushman88/blob/main/1_um19N_oeTKlmrHMov0O5bA.gif" alt="Profile Image" width="100%">
+  <img src="https://github.com/Ayushman88/Ayushman88/blob/main/1_um19N_oeTKlmrHMov0O5bA.gif" alt="Profile Image" width="50%">
 </p>
 
 <!-- About Me Section -->
