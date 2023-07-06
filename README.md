@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/Ayushman88/Ayushman88/blob/main/0706.mp4" alt="Profile Header" width="100%">
+  <img src="https://github.com/Ayushman88/Ayushman88/blob/main/0706_AdobeExpress.gif" width="100%">
 </p>
 
 <!-- Introduction -->
