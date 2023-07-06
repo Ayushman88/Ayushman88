@@ -80,7 +80,3 @@
   </a>
 </p>
 
-<!-- Footer -->
-<p align="center">
-  Proudly created with GPRM (<a href="https://gprm.itsvg.in">https://gprm.itsvg.in</a>)
-</p>
