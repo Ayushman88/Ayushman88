@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Ayushman Mishra</h1>
-<h3 align="center">1st year student | Frontend Development | Learning</h3>
+<h3 align="center">2nd year student | Full Stack Developer | Freelancer | Learning</h3>
 
 <!-- Profile Image -->
 <p align="center">
@@ -15,12 +15,15 @@
 <!-- About Me Section -->
 <div align="center">
   <h2>💫 About Me:</h2>
-  <ul>
-    <li>🔭 I’m currently learning JavaScript and M.E.R.N Stack</li>
-    <li>💬 Ask me about Frontend Development</li>
-    <li>📫 How to reach me: ayushmanmishra094@gmail.com</li>
-    <li>⚡ Fun fact: I will be starting my first year this year!</li>
-  </ul>
+ <ul>
+  <li>🔭 Currently working with JavaScript, MERN Stack, and DevOps tools like Docker and Ansible</li>
+  <li>💡 Skilled in building dynamic UIs with React, Next.js, and enhancing backend functionality with Node.js and Express</li>
+  <li>💬 Happy to discuss Frontend Development, MERN Stack, and DevOps best practices</li>
+  <li>🏆 Achievements: Winner of Smart India Hackathon</li>
+  <li>🚀 Currently building "Udaan," a freelance and community platform for students using React and Firebase</li>
+  <li>📫 Reach me at: ayushmanmishra094@gmail.com</li>
+</ul>
+
 </div>
 
 <!-- Socials Section -->
@@ -30,7 +33,7 @@
     <a href="https://instagram.com/____ayushman___">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://linkedin.com/in/ayushman-mishra-4a2797281">
+    <a href="https://linkedin.com/in/ayushman-mishra">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
