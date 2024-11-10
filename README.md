@@ -20,7 +20,6 @@
   <li>💡 Skilled in building dynamic UIs with React, Next.js, and enhancing backend functionality with Node.js and Express</li>
   <li>💬 Happy to discuss Frontend Development, MERN Stack, and DevOps best practices</li>
   <li>🏆 Achievements: Winner of Smart India Internal Hackathon</li>
-  <li>🚀 Currently building "Udaan," a freelance and community platform for students using React and Firebase</li>
   <li>📫 Reach me at: ayushmanmishra094@gmail.com</li>
 </ul>
 
