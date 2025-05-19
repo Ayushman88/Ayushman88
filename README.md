@@ -8,7 +8,7 @@
 ---
 
 ### 💡 About Me
-- 🚀 Working with **JavaScript**, **MERN Stack**, and **DevOps** tools like Docker & Ansible  
+- 🚀 Working with **JavaScript**, **MERN Stack**,**Next.js**, and **DevOps** tools like Docker & Ansible  
 - ⚛️ Building dynamic UIs with **React**, **Next.js**, and scalable backends using **Node.js** & **Express**  
 - 🧠 Always learning and exploring modern tech and clean code practices  
 - 🏆 **Winner** – Smart India Internal Hackathon  
