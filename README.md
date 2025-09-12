@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ayushman Mishra</h1>
-<h3 align="center">Full Stack Developer | MERN + DevOps | Freelancer | 2nd Year BTech Student</h3>
+<h3 align="center">Full Stack Developer | MERN + DevOps | Freelancer | 3rd Year BTech Student</h3>
 
 <p align="center">
   <img src="https://github.com/Ayushman88/Ayushman88/blob/main/1_um19N_oeTKlmrHMov0O5bA.gif" alt="Ayushman Mishra" width="50%" />
