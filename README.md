@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  I build software, experiment with emerging technologies, and turn ideas into products.
+  Building software, experimenting with emerging technologies, and turning ideas into products.
 </p>
 
 <p align="center">
@@ -25,16 +25,16 @@
 
 ### 💡 About Me
 
-I'm a software engineer and computer science student interested in building products that solve real problems.
+I'm a software engineer and computer science student passionate about building products, exploring systems and solving real-world problems through technology.
 
-My work spans full-stack engineering, backend systems, developer infrastructure, AI/ML experimentation, and product development.
+My interests span full-stack engineering, AI/ML, cloud infrastructure, compiler development and entrepreneurship.
 
 - 🚀 Building products from idea to deployment.
-- 🧠 Interested in programming languages, systems engineering and AI.
-- 💼 Previously worked as an **SDE Intern at Jio Platforms Limited**.
-- 🏆 Winner of **Smart India Hackathon Internal Selection**.
+- 🧠 Exploring programming languages, systems engineering and AI.
+- 💼 Previously **SDE Intern at Jio Platforms Limited**.
+- 🏆 Winner of Smart India Hackathon Internal Selection.
 - 🌐 Former community lead and organizer at GDG On Campus MIT ADT.
-- 💡 Interested in entrepreneurship and open-source development.
+- 🎙️ Building **The AM Show**, a builder-focused tech platform.
 
 ---
 
@@ -51,16 +51,22 @@ Through The AM Show, I bring builders together to experiment, collaborate, build
 
 <p align="center">
   <a href="https://theamshows.in">
-    <img src="https://img.shields.io/badge/Website-theamshows.in-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/WEBSITE-theamshows.in-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@theamshows">
-    <img src="https://img.shields.io/badge/YouTube-The%20AM%20Show-red?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YOUTUBE-THE%20AM%20SHOW-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/ZWDkYnW4MBI?si=C-0kGZMxeK_sU_hO">
-    <img src="https://img.youtube.com/vi/ZWDkYnW4MBI/maxresdefault.jpg" width="70%" alt="The AM Show" />
+  <a href="https://youtu.be/ZWDkYnW4MBI?si=C-0kGZMxeK_sU_hO" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/ZWDkYnW4MBI/maxresdefault.jpg" width="75%" alt="Watch The AM Show on YouTube" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/ZWDkYnW4MBI?si=C-0kGZMxeK_sU_hO" target="_blank" rel="noopener noreferrer">
+    ▶ Watch on YouTube
   </a>
 </p>
 
@@ -82,16 +88,40 @@ Organized developer events, technical programs, hackathons and learning initiati
 
 ### ⚙️ Tech Stack
 
-**Languages & Frameworks**
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,rust,bash" />
 </p>
 
-**Backend, Database & DevOps**
+**Frontend & UI Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,postgres,firebase,docker,kubernetes,linux,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,figma,gsap" />
+</p>
+
+**Backend & APIs**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,graphql" />
+</p>
+
+**Databases & Storage**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,redis" />
+</p>
+
+**Cloud, DevOps & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,nginx,linux,gcp,vercel,githubactions" />
+</p>
+
+**Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cmake,stackoverflow" />
 </p>
 
 ---
@@ -111,7 +141,7 @@ Organized developer events, technical programs, hackathons and learning initiati
 
 ### 🤝 Let's Connect
 
-I'm always interested in discussing software engineering, interesting ideas, startups, AI, and building products.
+Always open to interesting conversations around software engineering, startups, AI, open source and building products.
 
 <p align="center">
   <a href="mailto:ayushmanmishra094@gmail.com">
