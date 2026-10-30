@@ -1,85 +1,123 @@
-<h1 align="center">Hey 👋, I'm Ayushman Mishra</h1>
-<h3 align="center">Full Stack Developer | MERN + DevOps | Freelancer | 4th Year BTech Student</h3>
+
+<h1 align="center">Ayushman Mishra</h1>
+
+<h3 align="center">
+  Software Engineer · Product Builder · Entrepreneur
+</h3>
 
 <p align="center">
-  <img src="https://github.com/Ayushman88/Ayushman88/blob/main/1_um19N_oeTKlmrHMov0O5bA.gif" alt="Ayushman Mishra" width="50%" />
+  I build software, experiment with emerging technologies, and turn ideas into products.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ayushman-mishra">LinkedIn</a>
+  ·
+  <a href="mailto:ayushmanmishra094@gmail.com">Email</a>
+  ·
+  <a href="https://instagram.com/____ayushman___">Instagram</a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ayushman88/Ayushman88/blob/main/1_um19N_oeTKlmrHMov0O5bA.gif" width="65%" alt="Developer animation" />
 </p>
 
 ---
 
-### 💡 About Me
-- 🚀 Working with **JavaScript**, **MERN Stack**,**Next.js**, and **DevOps** tools like Docker & Ansible  
-- ⚛️ Building dynamic UIs with **React**, **Next.js**, and scalable backends using **Node.js** & **Express**  
-- 🧠 Always learning and exploring modern tech and clean code practices  
-- 🏆 **Winner** – Smart India Internal Hackathon  
-- 📫 Reach me: **ayushmanmishra094@gmail.com**
+### About
+
+I'm a software engineer and computer science student interested in building products that solve real problems.
+
+My work spans full-stack engineering, backend systems, developer infrastructure, AI/ML experimentation, and product development.
+
+- Building products from idea to deployment.
+- Interested in programming languages, systems engineering and AI.
+- Previously worked as an **SDE Intern at Jio Platforms Limited**.
+- Winner of the **Smart India Hackathon Internal Selection**.
+- Former community lead and organizer at GDG On Campus MIT ADT.
+- Interested in entrepreneurship and open-source development.
 
 ---
 
-### 🌐 Connect with Me
+### Currently Building
+
+| Project | What I'm working on |
+|---|---|
+| **YUKT** | Designing and developing a programming language with LLVM-based compilation. |
+| **SwarAI** | Exploring model training, reasoning and evaluation. |
+| **Loomsh** | Building an AI-powered learning and exam preparation platform. |
+| **OneFil** | Developing HR, payroll and statutory compliance software. |
+| **OceanEmbed** | Exploring deep learning for multi-source oceanographic data fusion. |
+
+---
+
+### Experience
+
+**Software Development Intern · Jio Platforms Limited**
+
+Worked on OCS Insights, contributing to full-stack development and engineering workflows.
+
+**Technologies:** React, Java, SQL, Docker, Kubernetes.
+
+**Community Leadership · GDG On Campus MIT ADT**
+
+Organized developer events, technical programs, hackathons and learning initiatives while helping grow a student developer community.
+
+---
+
+### Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+</p>
+
+**Frontend & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css" />
+</p>
+
+**Databases & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,docker,kubernetes,ansible,nginx,linux" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,gcp" />
+</p>
+
+---
+
+### GitHub Activity
+
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushman88&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman88&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushman88&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+### Let's Connect
+
+I'm always interested in discussing software engineering, interesting ideas, startups, AI, and building products.
+
+<p align="center">
+  <a href="mailto:ayushmanmishra094@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/ayushman-mishra">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/____ayushman___">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
-
-### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-%231C1C1C.svg?style=flat&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushman88&theme=transparent&hide_border=true&show_icons=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushman88&theme=transparent&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman88&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
-### ✨ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### ☕ Support Me
-<p align="center">
-  <a href="https://buymeacoffee.com/ayushmanmishra">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
----
-
-### 🧩 Holopin Badges
-<p align="center">
-  <a href="https://holopin.io/@ayushman88">
-    <img src="https://holopin.me/ayushman88" alt="Holopin Badges" />
-  </a>
-</p>
-
----
-
-### 👁️ Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ayushman88&icon=0&color=0" />
+  <i>Build things. Break things. Learn. Repeat.</i>
 </p>
